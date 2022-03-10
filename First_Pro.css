@@ -1,0 +1,52 @@
+.y {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    background: linear-gradient(to right, #403a3e, #be5869);
+}
+
+#photos {
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    background-color: #eee5da;
+}
+
+.nav {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: #eee5da;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(241, 142, 180), 0 0 5px rgb(255, 98, 158)
+}
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #eee5da;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(241, 142, 180), 0 0 5px rgb(255, 98, 158)
+}
+
+#p1 {
+    display: flex;
+    justify-content: center;
+}
+
+.top_btn {
+    display: flex;
+    justify-content: center;
+}
